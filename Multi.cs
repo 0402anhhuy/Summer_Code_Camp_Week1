@@ -10,6 +10,7 @@ namespace MyConsoleApp{
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
             int multi = Multi(a, b);
+            Console.WriteLine("Ket qua cua ");
             Console.WriteLine($"a * b = {multi}");
         }
     }
