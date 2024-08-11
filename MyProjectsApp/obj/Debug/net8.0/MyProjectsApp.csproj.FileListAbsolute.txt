@@ -1,0 +1,14 @@
+d:\AnhHuy\Code\C#\MyProjectsApp\bin\Debug\net8.0\MyProjectsApp.exe
+D:\AnhHuy\Code\C#\MyProjectsApp\bin\Debug\net8.0\MyProjectsApp.deps.json
+D:\AnhHuy\Code\C#\MyProjectsApp\bin\Debug\net8.0\MyProjectsApp.runtimeconfig.json
+d:\AnhHuy\Code\C#\MyProjectsApp\bin\Debug\net8.0\MyProjectsApp.dll
+d:\AnhHuy\Code\C#\MyProjectsApp\bin\Debug\net8.0\MyProjectsApp.pdb
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.AssemblyInfoInputs.cache
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.AssemblyInfo.cs
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.csproj.CoreCompileInputs.cache
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.dll
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\refint\MyProjectsApp.dll
+d:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.pdb
+D:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\MyProjectsApp.genruntimeconfig.cache
+D:\AnhHuy\Code\C#\MyProjectsApp\obj\Debug\net8.0\ref\MyProjectsApp.dll
